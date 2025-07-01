@@ -58,7 +58,7 @@ You can customize the study region, input data, or model parameters in `config.p
 
 ## Live Demo
 
-> 🚀 Coming Soon: [Hugging Face Spaces App](https://huggingface.co/spaces/yourusername/geothermal-anomaly)
+> 🚀 Coming Soon: [Hugging Face Spaces App](https://huggingface.co/spaces/elnmg/geothermal-anomaly)
 
 ## Folder Structure
 
@@ -88,7 +88,12 @@ You can customize the study region, input data, or model parameters in `config.p
 
 - Li et al. (2023). Remote Sensing in Geothermal Exploration.
 - Yuhendra et al. (2020). Anomaly Detection Using InSAR and Thermal Data.
+- Cumming, W. (2009). Geothermal Resource Conceptual Models Using Surface Exploration Data.
+- Fialko, Y. (2004). Probing the mechanical properties of seismically active crust with InSAR. Nature.
+- Bignall, G., & Browne, P. R. L. (2000). Geology of the Rotokawa geothermal field, Taupo Volcanic Zone, New Zealand
+- Jensen, J. R. (2007). Remote sensing of the environment: An earth resource perspective (2nd ed.)
+
 
 ## License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [elnmg]
