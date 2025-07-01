@@ -1,0 +1,61 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / API keys
+.env
+*.env
+openai.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Gradio app temp files
+gradio_app/__pycache__/
+gradio_app/tmp/
+
+# Data and result outputs
+output/
+*.csv
+*.html
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Logs
+*.log
+
+# Model artifacts
+*.h5
+*.pkl
+*.joblib
+*.pt
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# PyCharm settings
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
