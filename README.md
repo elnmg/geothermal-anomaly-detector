@@ -58,7 +58,7 @@ You can customize the study region, input data, or model parameters in `config.p
 
 ## Live Demo
 
-> 🚀 Coming Soon: [Hugging Face Spaces App](https://huggingface.co/spaces/elnmg/geothermal-anomaly)
+> 🚀 [Hugging Face Spaces App](https://huggingface.co/spaces/elnmg/geothermal-anomaly)
 
 ## Folder Structure
 
