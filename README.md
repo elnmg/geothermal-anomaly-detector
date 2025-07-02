@@ -96,4 +96,4 @@ You can customize the study region, input data, or model parameters in `config.p
 
 ## License
 
-MIT License © 2025 [elnmg]
+MIT License © 2025 [elnamigo]
